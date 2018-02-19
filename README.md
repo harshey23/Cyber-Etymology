@@ -13,9 +13,8 @@ Please Note..
 6. player5.jar
 7. display.jar
 
-* Once they are run, should not be closed till the game/round is over.
-* Make sure there is a working network connection among all the 7 PCs.
+1. Once they are run, should not be closed till the game/round is over.
+2. Make sure there is a working network connection among all the 7 PCs.
 
-***** These clients will only work for the Server with the ip address 192.168.195.87 *****
-
-* If you have a server with a different ip, change its ip to the above mentioned static ip address.  
+3. These clients will only work for the Server with the ip address 192.168.195.87 
+4. If you have a server with a different ip, change its ip to the above mentioned static ip address.  
