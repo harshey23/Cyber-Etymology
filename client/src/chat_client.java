@@ -12,7 +12,7 @@ import javax.swing.*;
 
 
 /*
- * @author Thejaswi A
+ * @author Harshith Shankar
  */
 public class chat_client extends javax.swing.JFrame {
 
